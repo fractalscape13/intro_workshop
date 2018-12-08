@@ -1,0 +1,25 @@
+h1 {
+  color: midnightblue;
+}
+body {
+  background-color: #F5F5DC;
+}
+.list-item {
+  font-family: Tahoma;
+}
+#css-item {
+  color: peru;
+}
+
+#goal-list {
+  border-style: double;
+  border-color: darkseagreen;
+  width: 13%;
+}
+
+#picture {
+  width: 50%;
+  float: right;
+  border-style: solid;
+  border-color: darkseagreen;
+}
